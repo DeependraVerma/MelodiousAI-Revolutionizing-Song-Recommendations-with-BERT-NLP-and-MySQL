@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+pymysql
+sentence-transformers
+transformers
+accelerate
+sqlalchemy
